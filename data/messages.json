@@ -1,0 +1,20 @@
+[
+  {
+    "id": "msg-vssu9sqp",
+    "name": "Ingrid",
+    "email": "ingrid@test.com",
+    "company": "",
+    "subject": "test",
+    "message": "dsfsdf",
+    "createdAt": "2026-04-26T07:48:08.656Z"
+  },
+  {
+    "id": "msg-nkacypdt",
+    "name": "Dirk",
+    "email": "diki@live.be",
+    "company": "",
+    "subject": "waarom moet ik zo lang wachten?",
+    "message": "Ik heb al zeven weken geleden besteld en nog niks ontvangen.",
+    "createdAt": "2026-04-25T16:27:13.876Z"
+  }
+]

@@ -1,0 +1,8 @@
+.next
+node_modules
+*.log
+dist
+out
+.idea
+public/uploads/*
+!public/uploads/.gitkeep

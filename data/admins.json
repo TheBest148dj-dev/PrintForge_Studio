@@ -1,0 +1,16 @@
+[
+  {
+    "id": "admin-kf738x60",
+    "username": "Admin_2",
+    "displayName": "Papa",
+    "role": "catalog-manager",
+    "passwordHash": "a21b939bee028953a2f1eb5be60f76df5a646f5af863c7ec06cacc450541be73"
+  },
+  {
+    "id": "admin-001",
+    "username": "owner",
+    "displayName": "Shop Owner",
+    "role": "superadmin",
+    "passwordHash": "43a0d17178a9d26c9e0fe9a74b0b45e38d32f27aed887a008a54bf6e033bf7b9"
+  }
+]

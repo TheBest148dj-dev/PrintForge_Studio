@@ -1,0 +1,303 @@
+{
+  "siteBrand": "PrintForge Studio",
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/products",
+      "label": "Shop"
+    },
+    {
+      "href": "/services",
+      "label": "Services"
+    },
+    {
+      "href": "/materials",
+      "label": "Materialen"
+    },
+    {
+      "href": "/gallery",
+      "label": "Galerij"
+    },
+    {
+      "href": "/viewer",
+      "label": "3D Viewer"
+    },
+    {
+      "href": "/custom-quote",
+      "label": "Offerte"
+    },
+    {
+      "href": "/blog",
+      "label": "Blog"
+    },
+    {
+      "href": "/contact",
+      "label": "Contact"
+    },
+    {
+      "href": "/admin",
+      "label": "Admin"
+    }
+  ],
+  "cartLabel": "Winkelmand",
+  "footer": {
+    "eyebrow": "PrintForge Studio",
+    "heading": "3D print webshop voor maatwerk, design objecten en snelle productie.",
+    "description": "Gebouwd om direct te gebruiken en verder uit te breiden in PyCharm.",
+    "columnOne": [
+      {
+        "href": "/products",
+        "label": "Shop"
+      },
+      {
+        "href": "/services",
+        "label": "Services"
+      },
+      {
+        "href": "/viewer",
+        "label": "3D Viewer"
+      },
+      {
+        "href": "/custom-quote",
+        "label": "Offerte"
+      }
+    ],
+    "columnTwo": [
+      {
+        "href": "/contact",
+        "label": "Contact"
+      },
+      {
+        "href": "/faq",
+        "label": "FAQ"
+      },
+      {
+        "href": "/admin",
+        "label": "Admin"
+      }
+    ],
+    "bottomLeft": "2026 PrintForge Studio",
+    "bottomRight": "Design-led 3D printing, prototyping and custom production."
+  },
+  "home": {
+    "eyebrow": "3D Print Webshop",
+    "primaryCta": "Bekijk collectie",
+    "secondaryCta": "Vraag maatwerk aan",
+    "featuredEyebrow": "Featured Prints",
+    "featuredTitle": "High-end prints met een webshop-look die meteen premium aanvoelt.",
+    "featuredDescription": "Most purchased products:",
+    "whyEyebrow": "Ben je zelf een geënthousiasmeerde ontwerper",
+    "whyTitle": "Denk maar niet na over de stress van het printen van uw ontwerp!!",
+    "whyDescription": "Je krijgt een product dat niet alleen mooi afgewerkt is: je krijgt maatwerk binnen de 2 dagen* met directe feedback als er fouten gemaakt zijn.",
+    "contactButton": "Contacteer ons",
+    "highlightPills": []
+  },
+  "productsPage": {
+    "eyebrow": "Shop",
+    "title": "Alle 3D print producten",
+    "description": "Een productoverzicht met premium cards, klaar voor uitbreiding met filters, categorieen en checkout."
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Services",
+      "title": "Van prototype tot premium eindproduct",
+      "description": "Deze pagina toont hoe je diensten en productieflows mooi kan presenteren in dezelfde visuele stijl als de shop."
+    },
+    "cards": [
+      {
+        "title": "Rapid prototyping voor productontwikkeling",
+        "description": "Ideaal om concepten, prototypes en snelle iteraties geloofwaardig te presenteren."
+      },
+      {
+        "title": "Kleine productieseries voor webshops en makers",
+        "description": "Gebruik deze tekst voor serieproductie, pre-orders en limited drops."
+      },
+      {
+        "title": "Functionele prints voor tools en montage",
+        "description": "Perfect voor technische onderdelen, hulpstukken en workshop-oplossingen."
+      },
+      {
+        "title": "Design objecten en custom interieurstukken",
+        "description": "Sterke copy voor premium objecten, decor en branded pieces."
+      }
+    ]
+  },
+  "customQuote": {
+    "hero": {
+      "eyebrow": "Offerte",
+      "title": "Vraag een custom 3D print offerte aan",
+      "description": "Gebruik deze pagina voor maatwerkprojecten, prototypes, zakelijke aanvragen en complexe prints."
+    },
+    "intakeTitle": "Maatwerk intake",
+    "intakeDescription": "Voeg later bestanduploads, projectbudgetten en materiaalkeuzes toe. De basisflow is hier al gelegd.",
+    "faqTitle": "Wat klanten vaak vragen",
+    "faqDescription": "Klik op een vraag om een uitgebreid antwoord in een popup te openen.",
+    "viewerTitle": "Bekijk STL bestanden in 3D",
+    "viewerDescription": "Laat klanten hun eigen STL uploaden en meteen roteren, inspecteren en controleren voor ze bestellen.",
+    "faqItems": [
+      {
+        "question": "Kan ik STL of STEP aanleveren?",
+        "answer": "Ja. STL is perfect als je model al klaar is om te printen, terwijl STEP beter is wanneer er nog technische aanpassingen nodig zijn. In een professionele flow controleer je eerst wanddiktes, toleranties, overhangen, schaal en materiaalkeuze. Daarna maak je een printplan met resolutie, support-strategie en geschatte productietijd."
+      },
+      {
+        "question": "Kunnen jullie een prototype optimaliseren?",
+        "answer": "Ja. Een sterk traject bestaat uit vier stappen: analyse van het huidige ontwerp, optimalisatie voor printbaarheid, testprinten van kritieke delen en daarna fine-tuning voor stevigheid, looks of montage. Zo maak je een prototype dat niet alleen mooi oogt, maar ook slimmer produceerbaar wordt."
+      },
+      {
+        "question": "Bieden jullie series voor B2B aan?",
+        "answer": "Ja. Voor B2B is een kleine of middelgrote serie vaak interessanter dan een enkel stuk. De beste aanpak is om eerst een master sample goed te keuren, daarna de gewenste aantallen vast te leggen, en pas dan de productie in batches te plannen."
+      },
+      {
+        "question": "Kan mijn product in branding-kleuren?",
+        "answer": "Ja. Dat kan via filamentkeuze, nabewerking, inserts of combinaties van kleuren per onderdeel. De slimste werkwijze is meestal: eerst je merkpalet bepalen, daarna per materiaal bekijken welke kleur het dichtst aansluit, en vervolgens een sample tonen voor goedkeuring."
+      }
+    ]
+  },
+  "viewerPage": {
+    "hero": {
+      "eyebrow": "3D Viewer",
+      "title": "Upload en bekijk STL modellen",
+      "description": "Laat bezoekers, klanten of jezelf STL-bestanden uploaden en rechtstreeks in 3D roteren en inspecteren."
+    },
+    "sectionTitle": "Interactieve STL viewer",
+    "sectionDescription": "Gebruik deze viewer om een STL lokaal in de browser te laden. Perfect voor custom aanvragen, prototypes en validatie voor productie."
+  },
+  "materials": {
+    "hero": {
+      "eyebrow": "Materialen",
+      "title": "Materialen en finish opties",
+      "description": "Een webshop voor 3D printing leeft ook van expertise. Deze pagina geeft vertrouwen en helpt klanten kiezen."
+    },
+    "items": [
+      {
+        "name": "PLA",
+        "use": "decoratief, prototypes, snelle iteraties"
+      },
+      {
+        "name": "PETG",
+        "use": "duurzaam, stevig, licht flexibel"
+      },
+      {
+        "name": "ABS",
+        "use": "technische onderdelen en hogere hitte"
+      },
+      {
+        "name": "TPU",
+        "use": "flexibele onderdelen en grips"
+      },
+      {
+        "name": "Carbon blends",
+        "use": "premium look en stijfheid"
+      },
+      {
+        "name": "Resin",
+        "use": "hoge detailgraad en display modellen"
+      }
+    ]
+  },
+  "gallery": {
+    "hero": {
+      "eyebrow": "Galerij",
+      "title": "Projecten en inspiratie",
+      "description": "Een visuele showcasepagina voor prints, klantenprojecten en before-after cases."
+    },
+    "items": [
+      "Desk accessories",
+      "Gaming display stands",
+      "Architectural shells",
+      "Retail display props",
+      "Functional workshop parts",
+      "Custom brand pieces"
+    ]
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Over ons",
+      "title": "Een 3D print studio met merkgevoel",
+      "description": "Gebruik deze pagina om jouw verhaal, visie, atelier en kwaliteitsstandaarden sterk in beeld te brengen."
+    },
+    "cards": [
+      {
+        "title": "Wie PrintForge is",
+        "description": "Deze template positioneert jouw shop als een premium partner voor makers, interieurprojecten en productontwikkeling."
+      },
+      {
+        "title": "Waar je dit kan uitbreiden",
+        "description": "Voeg teamfoto's, certificeringen, machinepark, testimonials en productieprocessen toe."
+      }
+    ]
+  },
+  "blog": {
+    "hero": {
+      "eyebrow": "Blog",
+      "title": "Kennis, updates en printadvies",
+      "description": "Een extra contentlaag voor SEO, expertise en merkverhaal."
+    },
+    "tagLabel": "Artikel",
+    "posts": [
+      {
+        "title": "Welke filamenten zijn het best voor sterke onderdelen?",
+        "description": "Leg materiaalkeuze, sterkte en toepassingen helder uit voor je klanten."
+      },
+      {
+        "title": "Zo ontwerp je een product voor 3D print verkoop",
+        "description": "Gebruik blogcontent om expertise en conversie tegelijk te versterken."
+      },
+      {
+        "title": "Wanneer kies je FDM en wanneer resin printing?",
+        "description": "Vergelijk printtechnieken op een manier die ook niet-technische bezoekers begrijpen."
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Contacteer de studio",
+      "description": "Met een mooi formulier, nette layout en opslag van berichten in lokale projectdata."
+    },
+    "formTitle": "Stuur een bericht",
+    "detailsTitle": "Studio details",
+    "details": [
+      "E-mail: hello@printforge.studio",
+      "Tel: +32 470 00 00 00",
+      "Locatie: Antwerpen",
+      "Productie: Benelux focus"
+    ]
+  },
+  "faq": {
+    "hero": {
+      "eyebrow": "FAQ",
+      "title": "Veelgestelde vragen",
+      "description": "Een duidelijke servicepagina die later makkelijk uit te breiden is met accordions of kennisbankcontent."
+    },
+    "items": [
+      {
+        "question": "Hoe snel kan een bestelling klaar zijn?",
+        "answer": "Leg hier je levertijden, productieplanning en spoedopties uit."
+      },
+      {
+        "question": "Kan ik een eigen ontwerp laten printen?",
+        "answer": "Gebruik dit blok om bestandstypes, controle en intake duidelijk uit te leggen."
+      },
+      {
+        "question": "Welke materialen raden jullie aan?",
+        "answer": "Licht de verschillen tussen PLA, PETG, ABS, TPU en resin toe."
+      },
+      {
+        "question": "Kunnen jullie ook kleine reeksen produceren?",
+        "answer": "Gebruik dit antwoord voor B2B series, batches en goedkeuringsprocessen."
+      }
+    ]
+  },
+  "cart": {
+    "hero": {
+      "eyebrow": "Winkelmand",
+      "title": "Mandje en checkout voorbereiden",
+      "description": "Deze pagina bevat nu een Stripe checkout-startpunt met een serverroute die een echte Checkout Session kan aanmaken."
+    },
+    "stripeHint": "Voeg in PyCharm later je Stripe secret key toe als STRIPE_SECRET_KEY in het bestand .env.local in de hoofdmap van je project om de checkout echt live te maken."
+  }
+}
